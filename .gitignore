@@ -1,5 +1,5 @@
-build/
-Build/
+build*/
+Build*/
 bin/
 lib/
 msg_gen/
